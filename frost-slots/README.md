@@ -1,0 +1,14 @@
+# Hack the Game
+slots.jackfrosttower.com
+
+# cookie
+XSRF-TOKEN=eyJpdiI6InIzSlVDSUR6Z21oa2I3cjJpTllGU3c9PSIsInZhbHVlIjoiUnRXYTZub0wxNit3N0x6NzM0ZXF0aERNZHVaQ0ZEQyt0QnREUDF4L1g3am5JbVdIck5rYWhjQ3hDK3BEa05yOGc4MkduK0dSTXhxbHJmbysvMlQ0OXJ2dnlYcEhkaGV0am1RdXdHeWk2SDVpTXNJeXFrMkE2MHlEWmYzV3pCcVkiLCJtYWMiOiI5M2MxNTgwNzUzYWE1MWViN2M0MDIxNjU5MzA0Yjg4YmJiNTNlYjQwNTM4MDMzY2RlZGFiMjg2MTg3ZmU0MmRlIiwidGFnIjoiIn0=; slots_session=eyJpdiI6IlBWaDdBNVdIZlpEQlJ1T3grYUl2RWc9PSIsInZhbHVlIjoibVBhT2pQYXVuajVMNnFERmVhWnpOSjVEZFBhTUZTQkMxK1ZzcmRMdy91TjFJZDZqMmluODRCVy9ETFgxYVlKcGpUUWZ0TTl5V2ZZdHVVSnRpNnBpUGgzSGVrR3AvRVNoeFVicmRRM1NCSmw0b24yUkdwM0h0NlY1d3hUVnBOZEUiLCJtYWMiOiIxMDQwYzVhZWNhOTlhYzRiOTQ4ZDIxOGEyZDgwZjhjNWE5ODE5MzY4MTQyOWUzNTFhNGMwYWU4ZjFlZTBlMjkwIiwidGFnIjoiIn0=
+
+XSRF-TOKEN
+{"iv":"r3JUCIDzgmhkb7r2iNYFSw==","value":"RtWa6noL16+w7Lz734eqthDMduZCFDC+tBtDP1x/X7jnImWHrNkahcCxC+pDkNr8g82Gn+GRMxqlrfo+/2T49rvvyXpHdhetjmQuwGyi6H5iMsIyqk2A60yDZf3WzBqY","mac":"93c1580753aa51eb7c4021659304b88bbb53eb40538033cdedab286187fe42de","tag":""}
+
+slot_session
+{"iv":"PVh7A5WHfZDBRuOx+aIvEg==","value":"mPaOjPaunj5L6qDFeaZzNJ5DdPaMFSBC1+VsrdLw/uN1Id6j2in84BW/DLX1aYJpjTQftM9yWfYtuUJti6piPh3HekGp/EShxUbrdQ3SBJl4on2RGp3Ht6V5wxTVpNdE","mac":"1040c5aeca99ac4b948d218a2d80f8c5a98193681429e351a4c0ae8f1ee0e290","tag":""}
+
+# Way too far down thw rabbit hole
+Open the Thunder Client extension. Tweaking the cpl value in the negative direction was the key. Get's past server validation.

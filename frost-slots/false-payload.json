@@ -1,0 +1,42 @@
+{
+    "success": true,
+    "data": {
+      "credit": 1001,
+      "jackpot": 0,
+      "free_spin": 0,
+      "free_num": 0,
+      "scaler": 0,
+      "num_line": 10,
+      "bet_amount": 1,
+      "pull": {
+        "WinAmount": 0,
+        "FreeSpin": 0,
+        "WildFixedIcons": [],
+        "HasJackpot": false,
+        "HasScatter": false,
+        "WildColumIcon": "",
+        "ScatterPrize": 0,
+        "SlotIcons": [
+          "icon1",
+          "icon10",
+          "icon8",
+          "icon6",
+          "wild",
+          "icon10",
+          "icon1",
+          "icon8",
+          "icon5",
+          "icon9",
+          "icon2",
+          "icon5",
+          "icon5",
+          "icon3",
+          "icon9"
+        ],
+        "ActiveIcons": [],
+        "ActiveLines": []
+      },
+      "response": "Keep playing!"
+    },
+    "message": "Spin success"
+  }

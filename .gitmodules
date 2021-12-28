@@ -1,0 +1,3 @@
+[submodule "printer-exploitation/hash_extender"]
+	path = printer-exploitation/hash_extender
+	url = https://github.com/jbold569/hash_extender
