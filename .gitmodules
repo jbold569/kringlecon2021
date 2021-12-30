@@ -1,9 +1,6 @@
 [submodule "printer-exploitation/hash_extender"]
 	path = printer-exploitation/hash_extender
 	url = https://github.com/jbold569/hash_extender
-[submodule "kerberoasting-open-fire/kerbrute"]
-	path = kerberoasting-open-fire/kerbrute
-	url = https://github.com/ropnop/kerbrute
 [submodule "kerberoasting-open-fire/BloodHound"]
 	path = kerberoasting-open-fire/BloodHound
 	url = https://github.com/BloodHoundAD/BloodHound
